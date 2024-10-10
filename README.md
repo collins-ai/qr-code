@@ -23,8 +23,8 @@ Completing this challenge was a bit difficult for me, the reason is because it's
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/collins-ai/qr-code.git)
+- Live Site URL: [Add live site URL here](https://collins-ai.github.io/qr-code/)
 
 ### Built with
 
